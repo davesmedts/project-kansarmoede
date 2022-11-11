@@ -3,10 +3,11 @@ import { Button } from 'reactstrap'
 
 export default function Footer() {
     return (
-        <div className='fixed-bottom'>
-            <div>
+        <div className='position-relative bottom-0 start-0'>
+            <div className='d-flex justify-content-between bg-primary'>
+                <p>Auteurs: Silvie Devos</p>
                 <Button
-                    color="warning"
+                    color="secondary"
                     size=""
                     className="align-self-end"
                 >
