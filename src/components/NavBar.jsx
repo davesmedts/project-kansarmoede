@@ -1,8 +1,26 @@
-import React from 'react'
+import React, { useState } from 'react';
+import {
+    Collapse,
+    Navbar,
+    NavbarToggler,
+    NavbarBrand,
+    Nav,
+    NavItem,
+    NavLink,
+    UncontrolledDropdown,
+    DropdownToggle,
+    DropdownMenu,
+    DropdownItem,
+    NavbarText,
+} from 'reactstrap';
 
-export default function NavBar() {
+export default function NavBar(...args) {
+    const [isOpen, setIsOpen] = useState(false);
+
+    const toggle = () => setIsOpen(!isOpen);
+
     return (
-        <nav className="navbar navbar-expand-lg navbar-dark bg-warning">
+        <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
             <div className="container-fluid">
                 <a className="navbar-brand" href="#">Wegwijs in de samenleving</a>
                 <div className="" id="navbarColor02">
@@ -30,5 +48,6 @@ export default function NavBar() {
                     </ul>
                 </div>
             </div>
-        </nav>)
+        </nav>
+    );
 }
