@@ -7,7 +7,7 @@ import {
   } from 'reactstrap';
 
 export default function AccordeonKansen() {
-    const [open, setOpen] = useState('1');
+    const [open, setOpen] = useState();
     const toggle = (id) => {
       if (open === id) {
         setOpen();
