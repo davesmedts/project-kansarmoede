@@ -59,12 +59,6 @@ export default function NavBar(props) {
                                 href="#">
                                 Conclusie</a>
                         </li>
-                        <li className="nav-item">
-                            <a
-                                className="nav-link"
-                                href="#">
-                                Bronnen</a>
-                        </li>
                     </ul>
                 </div>
             </div>

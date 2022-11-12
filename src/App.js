@@ -35,7 +35,10 @@ function App() {
   return (
     <>
       <NavBar onClick={togglePage} />
-      {content}
+      <div id='content-wrap'>
+        {content}
+      </div>
+      <Footer />
     </>
   );
 }
