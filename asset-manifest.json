@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/project-kansarmoede/static/css/main.6b5037d1.css",
-    "main.js": "/project-kansarmoede/static/js/main.6bb06313.js",
+    "main.css": "/project-kansarmoede/static/css/main.c2b67349.css",
+    "main.js": "/project-kansarmoede/static/js/main.52d08284.js",
     "index.html": "/project-kansarmoede/index.html",
-    "main.6b5037d1.css.map": "/project-kansarmoede/static/css/main.6b5037d1.css.map",
-    "main.6bb06313.js.map": "/project-kansarmoede/static/js/main.6bb06313.js.map"
+    "main.c2b67349.css.map": "/project-kansarmoede/static/css/main.c2b67349.css.map",
+    "main.52d08284.js.map": "/project-kansarmoede/static/js/main.52d08284.js.map"
   },
   "entrypoints": [
-    "static/css/main.6b5037d1.css",
-    "static/js/main.6bb06313.js"
+    "static/css/main.c2b67349.css",
+    "static/js/main.52d08284.js"
   ]
 }
