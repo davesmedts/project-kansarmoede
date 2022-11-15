@@ -10,7 +10,6 @@ export default function NavBar(props) {
 
     }
 
-
     return (
         <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
             <div className="container-fluid">

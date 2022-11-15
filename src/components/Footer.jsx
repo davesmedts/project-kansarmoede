@@ -1,7 +1,6 @@
 import React from 'react'
 import Bronnen from './Bronnen';
 
-
 export default function Footer() {
     return (
         <footer id='footer' className='bg-warning'>

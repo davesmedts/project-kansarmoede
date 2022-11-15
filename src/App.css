@@ -31,4 +31,9 @@ h1 {
 
 iframe {
     margin-left: auto;
-    margin-right: auto;}
+    margin-right: auto;
+}
+
+#antwoorden {
+    justify-content: space-around;
+}
