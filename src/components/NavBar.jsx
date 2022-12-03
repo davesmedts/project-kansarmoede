@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 
 export default function NavBar(props) {
     const [isOpen, setIsOpen] = useState(false);
-    const toggle = () => setIsOpen(!isOpen);
+    // const toggle = () => setIsOpen(!isOpen);
 
     const handleClick = (e) => {
         const name = e.target.getAttribute("name");
@@ -16,46 +16,45 @@ export default function NavBar(props) {
                 <div className="" id="navbarColor02">
                     <ul className="navbar-nav me-auto">
                         <li className="nav-item">
-                            <a
+                            <span
                                 className="nav-link active"
                                 name='home'
                                 onClick={handleClick}
-                                href="#">
+                                >
                                 Home
                                 <span className="visually-hidden">(current)</span>
-                            </a>
+                            </span>
                         </li>
                         <li className="nav-item">
-                            <a
+                            <span
                                 className="nav-link"
-                                href="#"
-                                name='kansen'
+                                                                name='kansen'
                                 onClick={handleClick}>
-                                Kansen en bedreigingen</a>
+                                Kansen en bedreigingen</span>
                         </li>
                         <li className="nav-item">
-                            <a
+                            <span
                                 className="nav-link"
                                 onClick={handleClick}
                                 name='uitdagingen'
-                                href="#">
-                                Uitdagingen</a>
+                                >
+                                Uitdagingen</span>
                         </li>
                         <li className="nav-item">
-                            <a
+                            <span
                                 className="nav-link"
                                 name='helpendeHanden'
                                 onClick={handleClick}
-                                href="#">
-                                Helpende handen</a>
+                                >
+                                Helpende handen</span>
                         </li>
                         <li className="nav-item">
-                            <a
+                            <span
                                 className="nav-link"
                                 name='conclusie'
                                 onClick={handleClick}
-                                href="#">
-                                Conclusie</a>
+                                >
+                                Conclusie</span>
                         </li>
                     </ul>
                 </div>
