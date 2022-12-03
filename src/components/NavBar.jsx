@@ -12,8 +12,7 @@ export default function NavBar(props) {
 
     return (
         <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
-            <div className="container-fluid">
-                <a className="navbar-brand" href="#">Wegwijs in de samenleving</a>
+            <div className="d flex justify-content-center container-fluid">
                 <div className="" id="navbarColor02">
                     <ul className="navbar-nav me-auto">
                         <li className="nav-item">

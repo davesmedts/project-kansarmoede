@@ -27,9 +27,9 @@ export default function Vraag(props) {
     });
 
     return (
-        <div>
+        <div className='d-flex justify-content-center'>
             <Card
-                className="my-2"
+                className="my-2 w-75"
                 color="warning"
                 outline
                 style={{
@@ -40,7 +40,7 @@ export default function Vraag(props) {
                     Trivia
                 </CardHeader>
                 <CardBody>
-                    <CardTitle tag="h5">
+                    <CardTitle tag="p">
                         {vraag}
                     </CardTitle>
                     <CardText id='antwoorden' className='d-flex'>
