@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 
 export default function NavBar(props) {
-    const [isOpen, setIsOpen] = useState(false);
+    // const [isOpen, setIsOpen] = useState(false);
     // const toggle = () => setIsOpen(!isOpen);
 
     const handleClick = (e) => {
