@@ -21,16 +21,16 @@ export default function NavBar(props) {
                                 name='home'
                                 onClick={handleClick}
                                 >
-                                Home
+                                Inleiding
                                 <span className="visually-hidden">(current)</span>
                             </span>
                         </li>
                         <li className="nav-item">
                             <span
                                 className="nav-link"
-                                                                name='kansen'
+                                                                name='Kansarmoede'
                                 onClick={handleClick}>
-                                Kansen en bedreigingen</span>
+                                Kansarmoede</span>
                         </li>
                         <li className="nav-item">
                             <span
@@ -38,7 +38,7 @@ export default function NavBar(props) {
                                 onClick={handleClick}
                                 name='uitdagingen'
                                 >
-                                Uitdagingen</span>
+                                Kansarmoede in het onderwijs</span>
                         </li>
                         <li className="nav-item">
                             <span

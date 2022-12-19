@@ -6,7 +6,7 @@ import {
     AccordionItem,
   } from 'reactstrap';
 
-export default function AccordeonKansen() {
+export default function AccordeonGeneratieArmoede() {
     const [open, setOpen] = useState();
     const toggle = (id) => {
       if (open === id) {
@@ -17,10 +17,18 @@ export default function AccordeonKansen() {
     };
   
     return (
-      <div>
+      <div className='mb-4'>
+        <h2>Verschillende soorten van armoede </h2>
+        <p>Er zijn verschillende soorten van armoede. Generatiearmoede, migratiearmoede en situationele armoede (Duurzame aanpak van kinderarmoede, 2022). </p>
+        <p>Bij generatiearmoede gaat het om families waarbinnen de armoede en daarmee gepaard gaande uitsluiting van generatie op generatie wordt doorgegeven. Hierbij spreken we over een langdurige armoede. Bij migratiearmoede zijn het gezinnen die in armoede leven. Hierbij vormt hun migratieachtergrond een belemmerende factor om uit armoede te geraken. Situationele armoede ontstaat bij een specifieke (levens)gebeurtenis (Duurzame aanpak van kinderarmoede, 2022). </p>
+
+        <h3>Generatiearmoede</h3>
+        <p>Bij generatiearmoede zien we dat er verschillende mechanisme binnen de gezinnen en in de omgeving de armoede in stand houdt. Voorbeelden van mechanisme die binnen in een huishouden een rol kunnen spelen zijn: weinig opleiding, ongunstige familiestructuur, slechte gezondheid, stress en daardoor minder doordacht omgaan met situatie. Voorbeelden van mechanisme in de omgeving van de gezinnen die een rol kunnen spelen zijn: economische crisis, technologische verschuivingen, onvoldoende effectief beleid van overheden en instellingen, zwakke regio’s, klein homogeen sociaal netwerk. Hierbij zien we dat elke afzonderlijke mechanisme opgroeiende kinderen beperkt in hun ambities en mogelijkheden. De mechanismen in combinatie leiden tot een probleem dat moeilijk te bestrijden is (Duurzame aanpak van kinderarmoede, 2022). </p>
+        <p>Om generatiearmoede te doorbreken is het belangrijk om verschillende perspectieven optimaal te benutten en ervoor te zorgen dat het ene perspectief het andere niet uitsluit. Dit maakt het heel complex. Er kan nagedacht worden bij de generatieoverdracht wat passende interventies zijn om langdurige armoede te doorbreken (Duurzame aanpak van kinderarmoede, 2022). </p>
+
         <Accordion open={open} toggle={toggle}>
           <AccordionItem>
-            <AccordionHeader targetId="1">Generatiearmoede</AccordionHeader>
+            <AccordionHeader targetId="1">Lees meer over generatiearmoede </AccordionHeader>
             <AccordionBody accordionId="1">
             <p>Bij generatiearmoede zien we dat er verschillende mechanisme binnen de gezinnen en in de omgeving de armoede in stand houdt. Voorbeelden van mechanisme die binnen in een huishouden een rol kunnen spelen zijn: weinig opleiding, ongunstige familiestructuur, slechte gezondheid, stress en daardoor minder doordacht omgaan met situatie. Voorbeelden van mechanisme in de omgeving van de gezinnen die een rol kunnen spelen zijn: economische crisis, technologische verschuivingen, onvoldoende effectief beleid van overheden en instellingen, zwakke regio’s, klein, homogeen sociaal netwerk. Hierbij zien we dat elke afzonderlijke mechanisme opgroeiende kinderen beperkt in hun ambities en mogelijkheden. De mechanismen in combinatie leiden tot een probleem dat moeilijk te bestrijden is.
             </p>
@@ -92,30 +100,6 @@ export default function AccordeonKansen() {
             </ul>
             <p>Het is belangrijk dat kinderen die doorbraak willen realiseren in de patronen van generatiearmoede dat ze contacten maken die gericht zijn op het maken van een goede studiekeuze, het vinden van een goede werkplekleren en naar later toe een passend werk bij hun eerder gekozen opleiding. Om de overgang van studiekeuze naar de arbeidsmarkt te vergemakkelijken zijn er interventies ontwikkelend. Naast het versterken van de ouderbetrokkenheid, wat vaak niet werkt bij deze doelgroep, door goede rolmodellen zorg te dragen, door jongeren werkervaring te laten opdoen binnen een bedrijf voor hun loopbaanontwikkeling, hierin is een rol van studiebegeleiding of mentor onmisbaar.  </p>
             <a href="https://www.verwey-jonker.nl/wp-content/uploads/2022/01/321200_Duurzame_aanpak_Kinderarmoede-Arnhem.pdf">BRON: 321200_Duurzame_aanpak_Kinderarmoede-Arnhem.pdf (verwey-jonker.nl)</a>
-            </AccordionBody>
-          </AccordionItem>
-
-
-          <AccordionItem>
-            <AccordionHeader targetId="2">Migratiearmoede</AccordionHeader>
-            <AccordionBody accordionId="2">
-              <strong>This is the second item&#39;s accordion body.</strong>
-              You can modify any of this with custom CSS or overriding our default
-              variables. It&#39;s also worth noting that just about any HTML can
-              go within the <code>.accordion-body</code>, though the transition
-              does limit overflow.
-            </AccordionBody>
-          </AccordionItem>
-
-
-          <AccordionItem>
-            <AccordionHeader targetId="3">Situationele armoede</AccordionHeader>
-            <AccordionBody accordionId="3">
-              <strong>This is the third item&#39;s accordion body.</strong>
-              You can modify any of this with custom CSS or overriding our default
-              variables. It&#39;s also worth noting that just about any HTML can
-              go within the <code>.accordion-body</code>, though the transition
-              does limit overflow.
             </AccordionBody>
           </AccordionItem>
         </Accordion>

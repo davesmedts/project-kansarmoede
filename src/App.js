@@ -1,6 +1,6 @@
 // import logo from './logo.svg';
 import './App.css';
-import Kansen from './components/Kansen';
+import Kansarmoede from './components/Kansarmoede';
 import Home from './components/Home';
 import HelpendeHanden from './components/HelpendeHanden';
 import Conclusie from './components/Conclusie';
@@ -15,8 +15,8 @@ function App() {
   let content;
   if (page === 'home') {
     content = <Home />
-  } else if (page === 'kansen') {
-    content = <Kansen />
+  } else if (page === 'Kansarmoede') {
+    content = <Kansarmoede />
 
   } else if (page === 'uitdagingen') {
     content = <Uitdagingen />
