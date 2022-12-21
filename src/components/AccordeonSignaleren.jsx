@@ -62,7 +62,7 @@ export default function AccordeonGeneratieArmoede() {
       </p>
       <p>Vanuit onze eigen visie vinden we het belangrijk om als leerkracht hoge verwachtingen te hebben naar ALLE kinderen in de klas. </p>
 
-      <h3>VervolgStappen</h3>
+      <h3>Vervolgstappen</h3>
       <p>Na het signaleren kunnen er vervolgstappen gezet worden (Defesche, 2022). (Zoals bespreekbaar maken en andere organisaties erbij betrekken.)</p>
       <p>Het bespreekbaar maken van kansarmoede is essentieel. Er is geen gouden regel hoe je dit bespreekbaar moet maken. Daarom is dit een lastig iets, vooral omdat niet elke ouder of kind dit op dezelfde manier prettig vindt. Maar de manier waarop het bespreekbaar gemaakt wordt is allesbepalend voor het effect... Het is zeker niet wenselijk voor deze kinderen en/of hun ouders wanneer het onderwerp armoede op een negatieve manier wordt aangehaald. De kans is dan zeer groot dat ze zich in een hokje gestopt voelen en besluiten er niet meer over te praten (Defesche, 2022).</p>
       <p>Bespreekbaar maken is iets wat bij elk kind en bij elke ouder anders zal moeten gaan. Armoede is immers een persoonlijk iets. Zo heeft elke ouder of kind zijn eigen verhaal met ervaringen. En kan het snel zo zijn dat ouders zich blootgesteld voelen aan stigmatisering en vernedering. Dit is iets waar je als leerkracht voor moet waken. Het gesprek aan gaan, hoe doe je dat? Het is goed om je eigen gevoel te tonen; erkennen dat het lastig is om erover te praten, ook voor jou als leerkracht. Vertel wat je ziet, zonder er een oordeel aan te vellen. Daarbij is het goed om feiten paraat te hebben om je verhaal te verduidelijken (Defesche, 2022). </p>
