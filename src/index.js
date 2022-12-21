@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 // import './index.css';
-import 'bootswatch/dist/flatly/bootstrap.min.css';
+import 'bootswatch/dist/minty/bootstrap.min.css';
 import App from './App';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));

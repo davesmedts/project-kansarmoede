@@ -18,7 +18,6 @@ export default function AccordeonGeneratieArmoede() {
   
     return (
       <div className='mb-4'>
-        <h3>Situationele armoede</h3>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia ut aliquid veritatis, laborum dignissimos quisquam quas corrupti tempore unde exercitationem nobis praesentium! Magni quod minus inventore earum asperiores incidunt deserunt?Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequuntur mollitia unde inventore fuga, officiis voluptatum labore esse possimus error dicta eveniet aspernatur, iure, deserunt excepturi quibusdam vel veniam nam nobis.</p>
 
         <Accordion open={open} toggle={toggle}>

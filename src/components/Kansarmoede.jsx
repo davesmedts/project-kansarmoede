@@ -3,6 +3,10 @@ import AccordeionGeneratieArmoede from './AccordeonGeneratieArmoede'
 import AccordeonMigratieArmoede from './AccordeonMigratieArmoede'
 import AccordeonSituationeleArmoede from './AccordeonSituationeleArmoede'
 import grafiek from './grafiekKansarmoede.png'
+import ArmoedeTabs from './ArmoedeTabs'
+import { TabContent, TabPane, Nav, NavItem, NavLink, Card, Button, CardTitle, CardText, Row, Col } from 'reactstrap';
+import classnames from 'classnames';
+
 
 
 export default function Kansarmoede() {
@@ -20,14 +24,18 @@ export default function Kansarmoede() {
             <img src={grafiek} alt='grafiekkansarmoede'></img>
 
             <p>Diederik Vancoppenolle, wetenschappelijk adviseur bij ’Het Agentschap Opgroeien’ vertelt dat er sinds 2019 een daling is waarbij jonge gezinnen in gunstigere omstandigheden leven dan de voorgaande jaren. Deze positieve trend blijft zich verderzetten in 2021, maar toch willen we de nadruk leggen op het feit dat er nog steeds 1 op 8 kinderen opgroeien in kansarmoede. 6% van de minderjarigen bevindt zich zelfs in een situatie van ernstige armoede met betrekking tot sociale en materiële uitsluiting (Gezinsinkomen en kansarmoede, z.d.).</p>
-            <p>Voor alle recente cijfers inzage kansarmoede kan u de website van ‘Het Agentschap Opgroeien’ raadplegen <a href="https://www.opgroeien.be/cijfers-en-publicaties/gezinsinkomen-en-kansarmoede">(klik hier).</a> </p>
+            <p>Voor alle recente cijfers inzage kansarmoede kan u de website van ‘Het Agentschap Opgroeien’ raadplegen <a href="https://www.opgroeien.be/cijfers-en-publicaties/gezinsinkomen-en-kansarmoede" target="_blank">(klik hier).</a> </p>
 
-            <AccordeionGeneratieArmoede />
-            <AccordeonMigratieArmoede />
-            <AccordeonSituationeleArmoede />
+            <h2>Verschillende soorten van armoede </h2>
+        <p>Er zijn verschillende soorten van armoede. Generatiearmoede, migratiearmoede en situationele armoede (Duurzame aanpak van kinderarmoede, 2022). </p>
+        <p>Bij generatiearmoede gaat het om families waarbinnen de armoede en daarmee gepaard gaande uitsluiting van generatie op generatie wordt doorgegeven. Hierbij spreken we over een langdurige armoede. Bij migratiearmoede zijn het gezinnen die in armoede leven. Hierbij vormt hun migratieachtergrond een belemmerende factor om uit armoede te geraken. Situationele armoede ontstaat bij een specifieke (levens)gebeurtenis (Duurzame aanpak van kinderarmoede, 2022). </p>
+
+
+            <ArmoedeTabs />
+
 
             <div className='d-flex justify-content-center'>
-            <iframe width="866" height="487" src="https://www.youtube.com/embed/EcJKwrRYinU" title="Week Tegen Kinderarmoede - een leeg bord, dat is pas echt schrikken (30s)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="866" height="487" src="https://www.youtube.com/embed/EcJKwrRYinU" title="Week Tegen Kinderarmoede - een leeg bord, dat is pas echt schrikken (30s)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
 
 
