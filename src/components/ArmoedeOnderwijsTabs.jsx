@@ -3,6 +3,7 @@ import { TabContent, TabPane, Nav, NavItem, NavLink, Card, Button, CardTitle, Ca
 import classnames from 'classnames';
 import AccordeonStimuleren from './AccordeonStimuleren'
 import AccordeonSignaleren from './AccordeonSignaleren'
+import AccoredeonOndersteunen from './AccordeonOndersteunen'
 
 
 export default class Example extends React.Component {
@@ -59,7 +60,7 @@ export default class Example extends React.Component {
                     </TabPane>
                     <TabPane tabId="2">
                         <Row>
-
+                            <AccoredeonOndersteunen />
                         </Row>
                     </TabPane>
                     <TabPane tabId="3">

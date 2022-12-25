@@ -27,8 +27,8 @@ export default function Kansarmoede() {
             <p>Voor alle recente cijfers inzage kansarmoede kan u de website van ‘Het Agentschap Opgroeien’ raadplegen <a href="https://www.opgroeien.be/cijfers-en-publicaties/gezinsinkomen-en-kansarmoede" target="_blank">(klik hier).</a> </p>
 
             <h2>Verschillende soorten van armoede </h2>
-        <p>Er zijn verschillende soorten van armoede. Generatiearmoede, migratiearmoede en situationele armoede (Duurzame aanpak van kinderarmoede, 2022). </p>
-        <p>Bij generatiearmoede gaat het om families waarbinnen de armoede en daarmee gepaard gaande uitsluiting van generatie op generatie wordt doorgegeven. Hierbij spreken we over een langdurige armoede. Bij migratiearmoede zijn het gezinnen die in armoede leven. Hierbij vormt hun migratieachtergrond een belemmerende factor om uit armoede te geraken. Situationele armoede ontstaat bij een specifieke (levens)gebeurtenis (Duurzame aanpak van kinderarmoede, 2022). </p>
+            <p>Er zijn verschillende soorten van armoede. <strong>Generatiearmoede, migratiearmoede en situationele armoede.</strong> </p>
+            <p>Bij <u>generatiearmoede</u> gaat het om families waarbinnen de armoede en daarmee gepaard gaande uitsluiting van generatie op generatie wordt doorgegeven. Hierbij spreken we over een langdurige armoede. Bij <u>migratiearmoede</u> zijn het gezinnen die in armoede leven. Hierbij vormt hun migratieachtergrond een belemmerende factor om uit armoede te geraken. <u>Situationele armoede</u> ontstaat bij een specifieke (levens)gebeurtenis (Duurzame aanpak van kinderarmoede, 2022). </p>
 
 
             <ArmoedeTabs />
