@@ -10,7 +10,7 @@ export default function Footer() {
                 <li>Silvie Devos</li>
                 <li>Marijke Van der Moeren</li>
             </ul>
-            <p>Wegwijs in de samenleving</p>
+            <h6>Wegwijs in de samenleving</h6>
             <Bronnen />
         </footer>
     )

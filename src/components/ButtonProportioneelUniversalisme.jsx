@@ -8,7 +8,7 @@ export default function Bronnen(args) {
 
   return (
     <div>
-      <Button color="primary" onClick={toggle}>
+      <Button className='mb-3' color="primary" onClick={toggle}>
       Meer informatie over het proportioneel universalisme...
       </Button>
       <Modal isOpen={modal} toggle={toggle} {...args}>

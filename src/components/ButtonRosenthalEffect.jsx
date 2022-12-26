@@ -11,7 +11,7 @@ export default function Bronnen(args) {
       <Button color="primary" onClick={toggle}>
       Meer informatie over het onderzoek...
       </Button>
-      <Modal isOpen={modal} toggle={toggle} {...args}>
+      <Modal className='modal-lg' isOpen={modal} toggle={toggle} {...args}>
         <ModalHeader toggle={toggle}>Het ‘Rosenthal effect” </ModalHeader>
         <ModalBody>
           <p>Rosenthal nam intelligentietesten af bij leerlingen van een basisschool en vertelde de leerkrachten dat iemands intellectuele vermogen aan de hand van deze test kon worden voorspeld. Hij wees willekeurig 20% van de leerlingen aan als leerlingen van de toekomst en gaf deze namen door aan de leerkrachten. Hij vertelde de leerkrachten dat zij van deze leerlingen opmerkelijke prestaties konden verwachten. In werkelijkheid was dit helemaal niet zo. De leerkrachten echter, leefden wel in deze veronderstelling. Heel wat maanden verder werd de test nogmaals afgenomen.</p>

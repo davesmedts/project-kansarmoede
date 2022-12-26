@@ -78,7 +78,7 @@ export default function AccordeonGeneratieArmoede() {
             <iframe width="560" height="315" src="https://www.youtube.com/embed/VPx9MN3rQxQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
 
-            <p>Inleidende teskt over onderstaand filmpje?</p>
+            <p>Inleidende tekst over onderstaand filmpje?</p>
 
             <div className='d-flex justify-content-center'>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/72XZggeE5eY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

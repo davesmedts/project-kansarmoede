@@ -19,7 +19,7 @@ export default function Kansarmoede() {
             <p>Het is gebleken dat kansarme kinderen het zwaarder hebben op school. Doordat hun thuissituatie veel van hen vraagt, presteren ze minder goed op school. Ze schamen zich en zijn onzeker waardoor ze zich afsluiten van de buitenwereld (Help ons kinderarmoede bestrijden - Stichting Pelicano, z.d.).</p>
             <p>In armoede leven is iets wat iedereen kan overkomen. Er zijn wel verschillende groepen huishoudens die hier meer risico op lopen. Deze huishoudens hebben een relatief laag inkomen. Voorbeelden hiervan zijn: éénoudergezinnen, huishoudens met een migratieachtergrond, een laag opleidingsniveau en weinig werkervaring. Kinderen van huishoudens met deze kenmerken hebben vervolgens ook een hogere kans op armoede (Duurzame aanpak van kinderarmoede, 2022).  </p>
 
-            <p class="text-danger">In deze podcast <a href="https://ondermamas.be/podcast/kinderarmoede/">(Klik hier)</a> vertelt ‘Stichting Pelicano’ over het initiatief om elk kind een mooie en warme toekomst te kunnen geven.</p>
+            <p class="text-primary">In deze podcast <a href="https://ondermamas.be/podcast/kinderarmoede/">(Klik hier)</a> vertelt ‘Stichting Pelicano’ over het initiatief om elk kind een mooie en warme toekomst te kunnen geven.</p>
 
             <img src={grafiek} alt='grafiekkansarmoede'></img>
 
