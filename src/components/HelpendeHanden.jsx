@@ -6,8 +6,8 @@ export default function HelpendeHanden() {
     return (
         <div className='container'>
             <h1>Helpende handen</h1>
-            <p>Kansarmoede kun je niet alleen oplossen. Partners zijn een onmisbare schakel in de strijd tegen kansarmoede. Wij zijn gaan zoeken naar partners die het onderwijs, ouders en kinderen kunnen ondersteunen. Ze zijn allen te vinden op de Sociale Kaart van België. <a href='https://www.desocialekaart.be/' target='_blank'>https://www.desocialekaart.be/</a> </p>
             <a href='https://www.desocialekaart.be/' target='_blank'><img src={logoOCMW} alt="logoDesocialekaart" /></a>
+            <p>Kansarmoede kun je niet alleen oplossen. Partners zijn een onmisbare schakel in de strijd tegen kansarmoede. Wij zijn gaan zoeken naar partners die het onderwijs, ouders en kinderen kunnen ondersteunen. Ze zijn allen te vinden op de Sociale Kaart van België. </p>
             <p>We hebben aan deze partners onder andere de volgende vragen gesteld:</p>
            <strong> <ul className='text-primary'>
                 <li>Wat is jullie visie op onderwijs en kansarme gezinnen?  </li>

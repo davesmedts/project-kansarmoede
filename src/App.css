@@ -1,9 +1,9 @@
 body {
-    min-height:100vh;
+    min-height: 100vh;
 }
 
 #root {
-    min-height:100vh;
+    min-height: 100vh;
     position: relative;
 
 }
@@ -45,10 +45,21 @@ iframe {
     list-style-type: none;
 }
 
-.partnersLogo {
+.imgCentered {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+#logoWelzijnszorg {
     width: 500px;
+}
+
+#logoCLB {
+    width: 175px;
 }
 
 #jordy {
     width: 600px;
 }
+
