@@ -63,3 +63,6 @@ iframe {
     width: 600px;
 }
 
+.nav-item:hover {
+    cursor: pointer;
+}
