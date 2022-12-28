@@ -37,13 +37,18 @@ export default function AccordeonGeneratieArmoede() {
             <a href="https://welzijnszorg.be/onderwijs" target="_blank" rel="noopener noreferrer">
               <img id='logoWelzijnszorg' className='imgCentered' src={logoWelzijnszorg}></img>
             </a>
-            <p>Van alle partners die wij hebben gevonden via de Sociale Kaart en vervolgens hebben gecontacteerd, kunnen wij concluderen dat ‘Welzijnszorg’ op nummer 1 staat. Zij bieden educatieve materialen aan die de leerkrachten kunnen gebruiken om kansarmoede bespreekbaar te maken in de klas.  </p>
-            <p>Welzijnszorg is een VZW die zich inzet in België. We hebben contact gehad met Kusum Mertens. <a href={pdf} target='_blank'>klik hier voor de mailwisseling (bestand)</a> Helaas was afspreken erg lastig dus heeft ze ons doorverwezen naar de website waar veel informatie te vinden was. Deze informatie hebben we uitgespit en hier is het volgende uitgekomen.</p>
-            <p>Welzijnszorg is een organisatie die ernaar ijveren zich krachtig in te zetten zodat iedereen zijn basisrechten kan uitvoeren, dat middelen eerlijk worden verdeeld en iedereen (dezelfde) kansen krijgt.  </p>
+            <p>Van alle partners die wij hebben gevonden via de Sociale Kaart en vervolgens hebben gecontacteerd, kunnen wij concluderen dat ‘Welzijnszorg’ een onmisbare sociale partner voor leerkrachten is. Zij bieden educatieve materialen aan die de leerkrachten kunnen gebruiken om kansarmoede bespreekbaar te maken in de klas.  </p>
+            <p>Welzijnszorg is een VZW die zich inzet in België. We hebben contact gehad met Kusum Mertens. Helaas was afspreken erg lastig dus heeft ze ons doorverwezen naar de website waar veel informatie te vinden was. Deze informatie hebben we uitgespit en hier is het volgende uitgekomen.</p>
+            <p>Welzijnszorg is een organisatie die ernaar ijvert zich krachtig in te zetten zodat iedereen zijn basisrechten kan uitvoeren, dat middelen eerlijk worden verdeeld en iedereen (dezelfde) kansen krijgt.  </p>
             <p>Ze zetten in op verschillende gebieden, en bieden zo ook ondersteuning aan scholen. Ze bieden materialen aan die men als school kan bestellen. Deze materialen helpen om leerlingen en studenten bewust te maken van armoede.</p>
             <p>Hun campagnes zijn gericht op kleuters, lagere school en het secundair. Speciaal voor kleuters hebben ze een campagne met Jordy. Jordy is een jongetje dat symbool staat voor alle kleuters in armoede. De verhalen van Jordy geven je een kijkje in zijn dagelijkse leven. Jordy groeit op in een kwetsbaar gezin. </p>
             <p>De kleuterschool is een eerste moment om armoede te doorbreken. Het is belangrijk dat kleuters al vroeg leren wat armoede betekent en hoe armoede voor uitsluiting kan zorgen. Zich inleven in een wereld die voor hun wellicht nog onbekend is, is niet makkelijk maar hier liggen wel kansen voor leerkrachten. </p>
-            <p>Doordat dit zeer interessante materialen zijn, zullen Steffi en Silvie dit in Januari voorstellen aan Sint-Eduardus Merksem, de school waar zij werken aangezien hier veel kinderen les volgen die in kansarmoede leven. </p>
+            <p>Doordat dit zeer interessante materialen zijn, zullen Steffi en Silvie dit in januari voorstellen aan Sint-Eduardus Merksem, de school waar zij werken aangezien hier veel kinderen les volgen die in kansarmoede leven. </p>
+
+            <a href={pdf} target='_blank'>
+              <button className='btn btn-primary mb-3'>klik hier voor de mailwisseling (bestand)</button>
+            </a>
+
             <p>Benieuwd naar Jordy? <a href='https://welzijnszorg.be/jordy' target='_blank'>Klik hier</a>.</p>
 
 
@@ -133,7 +138,7 @@ export default function AccordeonGeneratieArmoede() {
             <div className='d-flex mb-3 justify-content-center'>
               <iframe width="560" height="315" src="https://www.youtube.com/embed/eO4Alwe6HEc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
-            <p>Benieuwd hoe jij scoort op je relaties met ouders?. <a href="https://cdn.klasse.be/wp/wp-content/uploads/2018/08/KenP_Zelfscan4_ouderbetrokkenheid-1.pdf?utm_source=Klasse+-+Nieuwsbrieven&utm_campaign=359deba612-nieuwsbrief+Gelijke+Kansen+2018_09_19_COPY_01&utm_medium=email&utm_term=0_b661ff641f-359deba612-418309833" target="_blank" rel="noopener noreferrer">Doe de zelfscan</a></p>
+            <p>Benieuwd hoe jij scoort op je relaties met ouders? <a href="https://cdn.klasse.be/wp/wp-content/uploads/2018/08/KenP_Zelfscan4_ouderbetrokkenheid-1.pdf?utm_source=Klasse+-+Nieuwsbrieven&utm_campaign=359deba612-nieuwsbrief+Gelijke+Kansen+2018_09_19_COPY_01&utm_medium=email&utm_term=0_b661ff641f-359deba612-418309833" target="_blank" rel="noopener noreferrer">Doe de zelfscan</a></p>
 
 
           </AccordionBody>

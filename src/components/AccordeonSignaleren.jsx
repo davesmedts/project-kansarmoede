@@ -19,14 +19,13 @@ export default function AccordeonGeneratieArmoede() {
 
   return (
     <div className='mb-4'>
-      <h5>Herkennen van kansarmoede</h5>
-      <p>Inleidende tekst?</p>
+      <h6 className='mt-4'>Herkennen van kansarmoede</h6>
 
       <Accordion open={open} toggle={toggle}>
         <AccordionItem>
           <AccordionHeader targetId="1">Rol van de onderwijsinstelling</AccordionHeader>
           <AccordionBody accordionId="1">
-            <p>Het is van belang dat een schoolteam zich bewust is van de invloed van armoede op de ontwikkelingskansen, het welbevinden en het ontwikkelen van het kind. De directie heeft de belangrijke taak om dit thema aan te kaarten in het team. Een schoolbestuur kan de directie hierin ondersteunen door het onderwerp armoede aan te brengen tijdens haar bezoek aan verschillende onderwijsinstellingen, door middel van gesprekken met de directies en door school overstijgende uitwisseling en interventies te stimuleren en te vergemakkelijken. Ze kunnen hierbij nog een stap verder gaan door middel van een beleidsmedewerker inzage armoede aan te stellen. Ook kunnen ze scholen helpen door snel benaderbare noodfondsen op te richten. Deze noodfondsen zijn minder toepasselijk voor kinderen die in situationele armoede  zitten. Het is wel een feit dat de schoolprestaties en welbevinden kunnen verminderen door de thuiscontext (Duurzame aanpak van kinderarmoede, 2022.</p>
+            <p>Het is van belang dat een schoolteam zich bewust is van de invloed van armoede op de ontwikkelingskansen, het welbevinden en het ontwikkelen van het kind. De directie heeft de belangrijke taak om dit thema aan te kaarten in het team. Een schoolbestuur kan de directie hierin ondersteunen door het onderwerp armoede aan te brengen tijdens haar bezoek aan verschillende onderwijsinstellingen, door middel van gesprekken met de directies en door school overstijgende uitwisseling en interventies te stimuleren en te vergemakkelijken. Ze kunnen hierbij nog een stap verder gaan door middel van een beleidsmedewerker inzage armoede aan te stellen. Ook kunnen ze scholen helpen door snel benaderbare noodfondsen op te richten. Deze noodfondsen zijn minder toepasselijk voor kinderen die in situationele armoede  zitten. Het is wel een feit dat de schoolprestaties en welbevinden kunnen verminderen door de thuiscontext (Duurzame aanpak van kinderarmoede, 2022).</p>
           </AccordionBody>
         </AccordionItem>
         <AccordionItem>

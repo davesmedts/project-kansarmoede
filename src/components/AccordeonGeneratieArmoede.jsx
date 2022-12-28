@@ -54,7 +54,7 @@ export default function AccordeonGeneratieArmoede() {
 
             <h5>gezondheid</h5>
 
-            <img src={afbeeldingGezondheid} alt='samenhang armoede, schulden en gezondheid'></img>
+            <img className='imgCentered' src={afbeeldingGezondheid} alt='samenhang armoede, schulden en gezondheid'></img>
 
 
             <p>Er is in de relatie tussen gezondheid en armoede een erfelijk component. Er worden bepaalde ziektebeelden doorgegeven van ouder op kind. Aanpakken van erfelijkheid kunnen we niet, we kunnen wel zaken als beweging en voeding van gezinnen in armoede verbeteren. We kunnen werken aan gezondsheidsvaardigheden. Het kan voor een deel worden voorkomen dat langdurige arme gezinnen ontstaan worden door gezondheidsproblemen bij kinderen. </p>
