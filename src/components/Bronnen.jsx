@@ -11,7 +11,7 @@ export default function Bronnen(args) {
       <Button color="secondary" onClick={toggle}>
         Bronnen
       </Button>
-      <Modal className='modal-lg' isOpen={modal} toggle={toggle} {...args}>
+      <Modal className='modal-xl' isOpen={modal} toggle={toggle} {...args}>
         <ModalHeader toggle={toggle}>Bronnen</ModalHeader>
         <ModalBody>
           <ul>

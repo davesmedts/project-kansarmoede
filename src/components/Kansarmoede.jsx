@@ -13,7 +13,7 @@ export default function Kansarmoede() {
     return (
         <div className='container'>
 
-            <h1>Kansarmoede</h1>
+            <h3>Kansarmoede</h3>
             <p>Kansarmoede is een term die veel gelinkt wordt met kinderarmoede. Zowel de ‘Stichting Pelicano’ als ook ‘Het Agentschap Opgroeien’ beschrijft heel goed een aantal essentiële zaken als het om kansarmoede gaat. We hebben dit hieronder samengevat: </p>
             <p>Ze formuleren beide dat kansarmoede meer is dan inkomensarmoede. We beschouwen de situatie op meerdere levensdomeinen.  Mensen in kansarmoede worden beperkt in hun kansen om deel te nemen aan maatschappelijke thema’s zoals onderwijs, huisvesting en armoede. Het is zowel een materieel aspect alsook een immaterieel aspect (Gezinsinkomen en kansarmoede, z.d.) (Help ons kinderarmoede bestrijden - Stichting Pelicano, z.d.).</p>
             <p>Het is gebleken dat kansarme kinderen het zwaarder hebben op school. Doordat hun thuissituatie veel van hen vraagt, presteren ze minder goed op school. Ze schamen zich en zijn onzeker waardoor ze zich afsluiten van de buitenwereld (Help ons kinderarmoede bestrijden - Stichting Pelicano, z.d.).</p>

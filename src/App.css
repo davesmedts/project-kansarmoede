@@ -8,7 +8,7 @@ body {
 
 }
 
-h1 {
+h3 {
     margin-top: 15px;
 }
 
@@ -49,6 +49,10 @@ iframe {
     display: block;
     margin-left: auto;
     margin-right: auto
+}
+
+.imgGesprek {
+    width: 500px;
 }
 
 #logoWelzijnszorg {

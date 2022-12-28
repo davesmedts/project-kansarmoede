@@ -3,7 +3,7 @@ import React from 'react'
 export default function Home() {
     return (
         <div className='container'>
-            <h1>Inleiding</h1>
+            <h3>Inleiding</h3>
             <p>Wij zijn Steffi Brughmans, mama van 2 kinderen, zorgleerkracht in Sint-Eduardus te Merksem en klasleerkracht in Sint-Eduardus te Schoten. Esmé Corbijn, mama van 2 kinderen en werkzaam als beleidsmedewerker in de kinderopvang in Nederland. Silvie Devos, mama van 2 kinderen, zorgleerkracht in Sint-Eduardus te Merksem en kinderverzorgster in MPI Zonnebos te 's Gravenwezel. Marijke Van der Moeren, mama van 2 kinderen, klasleerkracht in De Verrekijker te Weelde. Wij zijn allemaal flex-studenten kleuteronderwijs van de AP Hogeschool te Antwerpen.</p>
             <p>Toen we, begin oktober de examenopdracht voor het vak ‘wegwijs in de samenleving’ voorgesteld kregen, wisten we meteen welke evolutie we wilden gaan onderzoeken, namelijk de evolutie van de sociale ongelijkheid in het onderwijs. Dit hebben we gespecifieerd naar kansarmoede, waarbij mensen die in deze situatie zitten ongelijke kansen en ongelijke resultaten ervaren.</p>
             <p>We merken namelijk alle 4 op, dat het steeds vaker voorkomt dat er kinderen uit een kansarme context onderwijs volgen. De kinderen uit een kansarm gezin ervaren zaken zoals sociale uitsluiting, schaamte, stress, maken zich zorgen over zichzelf en hun gezin, hebben het moeilijker op school en om later een job te vinden. Ook is het gezin vaak een doorgeefluik, waarbij ouders hun negatieve ervaringen met maatschappelijke instellingen zoals scholen doorgeven aan hun kinderen. </p>

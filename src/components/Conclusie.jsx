@@ -3,7 +3,7 @@ import React from 'react'
 export default function Conclusie() {
     return (
         <div className='container'>
-            <h1>Onderzoeksvraag</h1>
+            <h3>Onderzoeksvraag</h3>
             <p className='text-primary'>Hoe kunnen we als school kansarme gezinnen binnen de evolutie van sociale ongelijkheid optimaal ondersteunen zodat deze kinderen de kans krijgen om zich maximaal te ontwikkelen waardoor het verschil tussen kansarme en kansrijke gezinnen kleiner wordt. </p>
 
             <p>Vanuit ons onderzoek zijn we de rol van het onderwijs gaan beschrijven in 3 categorieën: signaleren, ondersteunen en stimuleren. </p>

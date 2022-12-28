@@ -7,6 +7,7 @@ import Conclusie from './components/Conclusie';
 import Uitdagingen from './components/Uitdagingen';
 import NavBar from './components/NavBar';
 import Footer from './components/Footer';
+import Praktijktips from './components/Praktijktips';
 import React, { useState } from 'react';
 
 function App() {
@@ -25,6 +26,8 @@ function App() {
     content = <HelpendeHanden />
   } else if (page === 'conclusie') {
     content = <Conclusie />
+  } else if (page === 'praktijktips') {
+    content = <Praktijktips />
   }
 
   function togglePage(newPage) {

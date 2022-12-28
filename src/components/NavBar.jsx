@@ -11,6 +11,7 @@ export default function NavBar(props) {
     const [uitdagingenClass, setUitdagingenClass] = useState("nav-link")
     const [helpendeHandenClass, setHelpendeHandenClass] = useState("nav-link")
     const [conclusieClass, setConclusieClass] = useState("nav-link")
+    const [praktijktipsClass, setPraktijktipsClass] = useState("nav-link")
 
     const handleClick = (e) => {
         const name = e.target.getAttribute('name');
@@ -20,6 +21,7 @@ export default function NavBar(props) {
         setUitdagingenClass("nav-link")
         setHelpendeHandenClass("nav-link")
         setConclusieClass("nav-link")
+        setPraktijktipsClass("nav-link")
 
         switch (name) {
             case 'home': setHomeClass("nav-link active")
@@ -30,7 +32,10 @@ export default function NavBar(props) {
                 break;
             case 'helpendeHanden': setHelpendeHandenClass("nav-link active")
                 break;
-            case 'conclusie': setConclusieClass("nav-link active")
+            case 'conclusie': setConclusieClass("nav-link active");
+                break;
+            case 'praktijktips': setPraktijktipsClass("nav-link active");
+                break;
         }
 
         props.onClick(name);
@@ -74,6 +79,14 @@ export default function NavBar(props) {
                                 onClick={handleClick}
                             >
                                 Helpende handen</span>
+                        </li>
+                        <li className="nav-item">
+                            <span
+                                className={praktijktipsClass}
+                                name='praktijktips'
+                                onClick={handleClick}
+                            >
+                                Praktijktips</span>
                         </li>
                         <li className="nav-item">
                             <span

@@ -5,7 +5,7 @@ import AccordeonHelpendeHanden from './AccordeonHelpendeHanden'
 export default function HelpendeHanden() {
     return (
         <div className='container'>
-            <h1>Helpende handen</h1>
+            <h3>Helpende handen</h3>
             <a href='https://www.desocialekaart.be/' target='_blank'><img src={logoOCMW} alt="logoDesocialekaart" /></a>
             <p>Kansarmoede kun je niet alleen oplossen. Partners zijn een onmisbare schakel in de strijd tegen kansarmoede. Wij zijn gaan zoeken naar partners die het onderwijs, ouders en kinderen kunnen ondersteunen. Ze zijn allen te vinden op de Sociale Kaart van België. </p>
             <p>We hebben aan deze partners onder andere de volgende vragen gesteld:</p>
