@@ -57,8 +57,8 @@ export default function AccordeonGeneratieArmoede() {
             </ul>
             <p>Wat verder belangrijke zaken zijn rondom het in gesprek gaan met kind en ouders valt bijvoorbeeld te lezen in de handreiking ‘omgaan met kinderarmoede in het sociaal domein’, Juni 2021. Hier spreken ze onder andere over de volgende twee belangrijke punten: (Lancering handreiking ‘Omgaan met kinderarmoede in het sociaal domein’, 2021):</p>
             <ul>
-              <li><strong>“Onschuldigen”:</strong> Kinderen hebben zelf geen schuld aan armoede. Maar reken ook de ouder(s) hun situatie niet af. Niet oordelen, dat doen ouders vaak al over zichzelf. Empathisch reageren is belangrijk en erken naar ouders toe dat hun armoedesituatie vaak het gevolg is van omstandigheden. Stress zal het ouders moeilijk maken om uit de situatie te komen (Lancering handreiking ‘Omgaan met kinderarmoede in het sociaal domein’, 2021). </li>
-              <li><strong>Oprecht en optimistisch zijn:</strong> Handel als leerkracht vanuit authenticiteit, oprechte belangstelling. Toon respect en neem de tijd voor het kind en zijn ouder(s). Het is immers vaak zo dat gezinnen die in armoede leven wantrouwens kunnen zijn naar professionals, dus ook naar goed bedoelt advies van een leerkracht. </li>
+              <li><strong>“Onschuldigen”:</strong> Kinderen hebben zelf geen schuld aan armoede. Maar reken ook de ouder(s) hun situatie niet af. Niet oordelen, dat doen ouders vaak al over zichzelf. Empathisch reageren is belangrijk en erken naar ouders toe dat hun armoedesituatie vaak het gevolg is van omstandigheden. Stress zal het ouders moeilijk maken om uit de situatie te komen. </li>
+              <li><strong>Oprecht en optimistisch zijn:</strong> Handel als leerkracht vanuit authenticiteit, oprechte belangstelling. Toon respect en neem de tijd voor het kind en zijn ouder(s). Het is immers vaak zo dat gezinnen die in armoede leven wantrouwend kunnen zijn naar professionals, dus ook naar goed bedoeld advies van een leerkracht (Lancering handreiking 'Omgaan met kinderarmoede in het sociaal domein', 2021). </li>
             </ul>
           </AccordionBody>
         </AccordionItem>

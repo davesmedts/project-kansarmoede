@@ -18,16 +18,15 @@ export default function AccordeonGeneratieArmoede() {
   };
 
   return (
-    <div className='mb-4'>
-      <p>Inleidende tekst?</p>
+    <div className='mt-3 mb-4'>
 
       <Accordion open={open} toggle={toggle}>
         <AccordionItem>
           <AccordionHeader targetId="1">Kansenongelijkheid</AccordionHeader>
           <AccordionBody accordionId="1">
             <p>Op dit moment wordt de meeste aandacht gegeven aan kansenongelijkheid in het onderwijs. Het onderwijs zou namelijk de kans hebben om ongelijke kansen gelijk te maken. </p>
-            <p>Alle leerlingen starten op school met een verschil van kennis en vaardigheden. Een van de redenen is dat ze binnen hun gezin en sociale context, niet op dezelfde manier, in hun ontwikkeling, gestimuleerd worden.</p>
-            <p>De school dient alle kinderen de kans te geven om helemaal tot ontwikkeling te komen, aansluitend bij hun context en kunnen. Maar laat dit nu net het probleem zijn. Er wordt namelijk onvoldoende aangesloten bij de behoeften van kinderen. Denk hierbij aan leerlingen summatief (= slagen of zakken bij een test) of net formatief (leerling gaat verder met de feedback die hij/zij heeft verkregen) evalueren. Ook de mate van inclusiviteit van het onderwijs en nascholing van leerkrachten in het kader van cultuursensitief werken zorgt ervoor dat er te weinig wordt aangesloten bij de nood van de kinderen. (= bedreiging). Door in te zetten op een multidimensionale aanpak en een samenwerking tussen school, organisaties in de gemeente en het gezin zelf, worden gelijke kansen gestimuleerd in en door het onderwijs (= kans) (Maak je sterk tegen armoede op school | Netwerk tegen Armoede, 2019).</p>
+            <p>Alle leerlingen starten op school met een verschil van kennis en vaardigheden. Eén van de redenen is dat ze binnen hun gezin en sociale context, niet op dezelfde manier, in hun ontwikkeling, gestimuleerd worden.</p>
+            <p>De school dient alle kinderen de kans te geven om helemaal tot ontwikkeling te komen, aansluitend bij hun context en kunnen. Maar laat dit nu net het probleem zijn. Er wordt namelijk onvoldoende aangesloten bij de behoeften van kinderen. Denk hierbij aan leerlingen summatief (= slagen of zakken bij een test) of net formatief (leerling gaat verder met de feedback die hij/zij heeft verkregen) evalueren. Ook de mate van inclusiviteit van het onderwijs en nascholing van leerkrachten in het kader van cultuursensitief werken zorgt ervoor dat er te weinig wordt aangesloten bij de nood van de kinderen (= bedreiging). Door in te zetten op een multidimensionale aanpak en een samenwerking tussen school, organisaties in de gemeente en het gezin zelf, worden gelijke kansen gestimuleerd in en door het onderwijs (= kans) (Maak je sterk tegen armoede op school | Netwerk tegen Armoede, 2019).</p>
           </AccordionBody>
         </AccordionItem>
 
@@ -35,7 +34,7 @@ export default function AccordeonGeneratieArmoede() {
           <AccordionHeader targetId="2">Opvoedingsondersteuning interventies</AccordionHeader>
           <AccordionBody accordionId="2">
             <p>Opvoedingsondersteuning interventies helpen ouders met een lage opleiding om hun kinderen zoveel mogelijk vaardigheden bij te brengen en ze helpen de ouders om hun attitude te veranderen. Doordat de attitude van ouders verandert, kan het de kinderen meer vertrouwen geven en het vergroot de motivatie voor school. Hierdoor hebben ze meer kans op een hogere opleiding en naar de toekomst toe betere werkkansen dan hun ouders. </p>
-            <p>Het is belangrijk dat kinderen die doorbraak willen realiseren, goede contacten maken die gericht zijn op het maken van goede studiekeuzes, het vinden van een goede werkplekleren en naar later toe een passend werk bij hun eerder gekozen opleiding. Om de overgang van studiekeuze naar de arbeidsmarkt te vergemakkelijken zijn er interventies ontwikkelend. Naast het versterken van de ouderbetrokkenheid, wat helaas vaak niet werkt bij deze doelgroep, door goede rolmodellen zorg te dragen, door jongeren werkervaring te laten opdoen binnen een bedrijf of voor hun loopbaanontwikkeling. Hierin is een rol van studiebegeleiding of mentor onmisbaar (Duurzame aanpak van kinderarmoede, 2022). </p>
+            <p>Het is belangrijk dat kinderen die doorbraak willen realiseren, goede contacten maken die gericht zijn op het maken van goede studiekeuzes, het vinden van een goede stageplaats en naar later toe een passend werk bij hun eerder gekozen opleiding. Om de overgang van studiekeuze naar de arbeidsmarkt te vergemakkelijken zijn er interventies ontwikkelend. Naast het versterken van de ouderbetrokkenheid, wat helaas vaak niet werkt bij deze doelgroep, door goede rolmodellen zorg te dragen, door jongeren werkervaring te laten opdoen binnen een bedrijf of voor hun loopbaanontwikkeling. Hierin is een rol van studiebegeleiding of mentor onmisbaar (Duurzame aanpak van kinderarmoede, 2022). </p>
             <p>Een uitdaging voor scholen is om hierop in te spelen door voorschoolse opvoeding en naschoolse activiteiten aan te bieden, die de startpositie en de ongelijke kansen van kinderen in armoede verbeteren (PISA Nederland – “Programme for International Student Assessment”, z.d.). </p>
           </AccordionBody>
         </AccordionItem>
@@ -76,7 +75,7 @@ export default function AccordeonGeneratieArmoede() {
               <li>Zo dien je diversiteit positief te benaderen en armoede te zien.</li>
               <li>Je dient te werken aan kwaliteitsvolle interacties met ouders en kinderen.</li>
               <li>Je hoort kinderen te begeleiden tot kwaliteitsvolle interacties.</li>
-              <li>Als leerkracht moet je diversiteit in het totale ontwikkelingsproces te begeleiden.</li>
+              <li>Als leerkracht moet je diversiteit in het totale ontwikkelingsproces begeleiden.</li>
               <li>Ook behoor je te zien en te handelen naar maatschappelijke verantwoordelijkheid (Steunpunt Diversiteit & Leren | Armoede & sociale ongelijkheid, z.d.).</li>
             </ul>
           </AccordionBody>
@@ -85,8 +84,8 @@ export default function AccordeonGeneratieArmoede() {
         <AccordionItem>
           <AccordionHeader targetId="6">Inzetten op communicatie tussen leerkracht en ouders om gelijke kansen in het onderwijs te garanderen.</AccordionHeader>
           <AccordionBody accordionId="6">
-            <p>Ouderbetrokkenheid houdt niet alleen maar ‘goede communicatie’ in. Er zijn veel acties die de school kan inzetten om ouderbetrokkenheid te verhogen en als partners een duurzame relatie aan te gaan. Ouders zijn immers de belangrijkste partners in onderwijs, en dat mogen we niet uit het oog verliezen!  (Ryckaert, 2005)</p>
-            <p>Ga zeer zeker met ouders in gesprek. Praat over wat zij belangrijk vinden in de ondersteuning, luister aandachtig. Houd daarbij rekening dat je in begrijpelijke taal spreekt en ‘vertaal’ de wensen en behoeften naar eventuele collega's of partners. (Lusse & Kassenberg, 2021)</p>
+            <p>Ouderbetrokkenheid houdt niet alleen maar ‘goede communicatie’ in. Er zijn veel acties die de school kan inzetten om ouderbetrokkenheid te verhogen en als partners een duurzame relatie aan te gaan. Ouders zijn immers de belangrijkste partners in onderwijs, en dat mogen we niet uit het oog verliezen  (Ryckaert, 2005)!</p>
+            <p>Ga zeer zeker met ouders in gesprek. Praat over wat zij belangrijk vinden in de ondersteuning, luister aandachtig. Houd daarbij rekening dat je in begrijpelijke taal spreekt en ‘vertaal’ de wensen en behoeften naar eventuele collega's of partners(Lusse & Kassenberg, 2021).</p>
           </AccordionBody>
 
         </AccordionItem>
@@ -106,14 +105,14 @@ export default function AccordeonGeneratieArmoede() {
             <ul>
               <li>Professionalisering rond armoede is cruciaal, en dit zowel op school als school overstijgend. Men dient kinderarmoede op te merken en bespreekbaar te maken, en deze gezinnen over te brengen naar professionals op sociaal gebied of op het gebied van werk en inkomen. </li>
               <li>De onderwijsinstelling zelf kan ook de kosten voor gezinnen in situationele armoede verlagen, door bijvoorbeeld ouderbijdragen niet aan te rekenen, of door uitstappen dichter bij school te voorzien. Ook kunnen gezinnen een bijslag of vrijstelling van de kosten voor school verkrijgen. Vaak zijn de ouders hier niet van op de hoogte. Het helpt als de onderwijsinstelling de gezinnen hierop kan wijzen. Ook kunnen scholen gezinnen stimuleren om elkaar te helpen of kunnen ze zelf ook materialen aanreiken aan ouders in armoede. Denk bijvoorbeeld aan het gratis aanbieden van fruit en menstruatieproducten. Ook het stimuleren van oude gymkleding hoort hierbij, zodat ouders in armoede hun kinderen gratis kunnen voorzien van turnkledij. Let hierbij wel op stigmatisering zoals bepaalde kinderen die altijd in de oude turnkledij van klasgenoten turnen.</li>
-              <li>-	Scholen dienen ook in te zetten op het bestrijden van armoede op lange termijn. Zo kunnen ze de leerlingen financiële-, en leefstijleducatie aanbieden. Ook het inzetten op veerkracht bij leerlingen en ouders helpt hierbij.</li>
+              <li>Scholen dienen ook in te zetten op het bestrijden van armoede op lange termijn. Zo kunnen ze de leerlingen financiële-, en leefstijleducatie aanbieden. Ook het inzetten op veerkracht bij leerlingen en ouders helpt hierbij.</li>
             </ul>
 
             <h6>Partners</h6>
             <p>Bewustwording, professionalisering en een goede samenwerking rond de problematiek van armoede geldt niet enkel voor scholen, maar ook voor andere instanties. (Duurzame aanpak van kinderarmoede, 2022).</p>
             <p>Volgens Prof. Em. Jan Vranken is armoede “een netwerk van sociale uitsluitingen dat zich uitstrekt over meerdere gebieden van het individuele en collectieve bestaan. Het scheidt de armen van de algemeen aanvaarde leefpatronen van de samenleving. Deze kloof kunnen ze niet op eigen kracht overbruggen.” Armoede en sociale uitsluiting kan zorgen voor een tekort aan loon, job, opleiding, welzijn, woongelegenheid en maatschappelijke deelname (Armoede en Sociale Uitsluiting, 2022).  </p>
             <p>Door sociale uitsluiting tegen te gaan, wordt iedereen sociaal rechtvaardig behandeld.</p>
-            <p>Wij streven voor gelijke kansen (egalitarisme) voor elk kind, ongeacht de context waarin ze opgroeien door hen (financiële) kansen te geven om hun talenten te ontwikkelen. Zo geeft bijvoorbeeld. Het Fonds Vrienden van Sint-Vincentius Limburg geeft kansarme kinderen financiële steun in Limburg, zodat zij lid kunnen worden van een sportclub of een jeugdbeweging, een muziekinstrument kunnen leren bespelen of een andere hobby binnen hun talenten kunnen uitvoeren (Kansarme kinderen hun talenten laten ontplooien door hen een hobby aan te bieden, z.d.). </p>
+            <p>Wij streven voor gelijke kansen (egalitarisme) voor elk kind, ongeacht de context waarin ze opgroeien door hen (financiële) kansen te geven om hun talenten te ontwikkelen. Zo geeft bijvoorbeeld Het Fonds Vrienden van Sint-Vincentius Limburg geeft kansarme kinderen financiële steun in Limburg, zodat zij lid kunnen worden van een sportclub of een jeugdbeweging, een muziekinstrument kunnen leren bespelen of een andere hobby binnen hun talenten kunnen uitvoeren (Kansarme kinderen hun talenten laten ontplooien door hen een hobby aan te bieden, z.d.). </p>
             <p>Om kansarmoede aan te pakken, dienen er vele factoren en mechanismen gelijktijdig te worden aangepakt. Onderzoek naar kansenongelijkheid in het onderwijs, geeft namelijk aan dat er op verschillende niveaus allerlei strategieën en elementen zijn die ongelijke kansen versterken. Deze strategieën en elementen komen niet enkel voor op niveau van familie, kind en school maar ook op het niveau van gemeente en samenleving (Maak je sterk tegen armoede op school | Netwerk tegen Armoede, 2019).</p>
             <p>Begin 2022 werd er een wijziging doorgevoerd om kinderen en gezinnen beter te ondersteunen en te detecteren. Kind en Gezin kreeg sinds kort de mogelijkheid om contactgegevens van kwetsbare gezinnen onder bepaalde voorwaarden te delen met het OCMW. Gezinnen worden sneller gedetecteerd en kunnen beroep doen op ondersteuning waar ze recht op hebben.  Kind en Gezin en het OCMW hebben een versterkte samenwerking en kunnen het risico op gezinnen en kinderen in armoede verkleinen (Heselmans, 2022). </p>
 

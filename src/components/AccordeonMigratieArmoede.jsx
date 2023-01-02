@@ -41,7 +41,7 @@ export default function AccordeonGeneratieArmoede() {
             <p>Diversiteit tussen de hulpverlening is voor de bewoners herkenbaarheid. Hierdoor kunnen ze zorgen voor kennisontwikkeling en werken ze aan de verbinding met cliënten waar cultuurverschillen en taal een rol spelen (Duurzame aanpak van kinderarmoede, 2022).</p>
 
             <h6>Inzet van sleutelpersonen </h6>
-            <p>Mensen in armoede hebben vaak een enorm gevoel van schaamte. Dit geldt ook voor mensen in armoede met een migratieachtergrond. Sterker nog, vaak is deze schaamte nog harder aanwezig. Vandaar dat het enorm belangrijk is om armoede, schulden en betalingsachterstanden bespreekbaar te maken. Dit is namelijk de eerste stap in het vinden van mogelijke oplossingen (Duurzame aanpak van kinderarmoede, 2022).</p>
+            <p>Mensen in armoede hebben vaak een enorm gevoel van schaamte. Dit geldt ook voor mensen in armoede met een migratieachtergrond. Sterker nog, vaak is deze schaamte nog harder aanwezig. Vandaar dat het enorm belangrijk is om armoede, schulden en betalingsachterstanden bespreekbaar te maken. Dit is namelijk de eerste stap in het vinden van mogelijke oplossingen.</p>
             <p>Bij mensen met een migratieachtergrond zijn de mogelijkheden naar hulp minder goed bekend. Het bereik dient verbetert te worden, dit kan door gemeenten en hulpinstanties samen te laten werken met sleutelfiguren uit diverse gemeenschappen. Zij kunnen mensen met een migratieachtergrond vaak laagdrempelig bereiken, kennen de taal en de culturele context. Dit neemt ook het wantrouwen qua hulpverlening weg. Sleutelpersonen kunnen ingezet worden inzage thuisadministratie. Men kan ook jongerencoaches opleiden inzage armoede en schulden (Duurzame aanpak van kinderarmoede, 2022).</p>
 
             <h6>Aansluiten bij veilige omgeving die er al is </h6>
@@ -70,7 +70,10 @@ export default function AccordeonGeneratieArmoede() {
             <h6>Bijdragen aan gelijk ontwikkelpotentieel </h6>
             <p>Binnen het onderwijs zelf zijn er ook bepaalde factoren die ervoor zorgen dat sommige kinderen meer kansen krijgen om volop tot ontwikkeling te komen, dan andere leerlingen.</p>
             <p>Het 3-jaarlijks Pisa-onderzoek, dat 15-jarigen uit verschillende landen met elkaar vergelijkt inzage schoolprestaties, geeft aan dat kinderen met een migratieachtergrond niet dezelfde onderwijskansen krijgen dan andere kinderen (Duurzame aanpak van kinderarmoede, 2022).</p>
-            <p>Voor meer informatie betreffende de resultaten van het 3-jaarlijke Pisa-onderzoek, verwijzen we u graag door naar volgende <a href='https://www.pisa-nederland.nl/' target='_blank'>website (PISA Nederland – “Programme for International Student Assessment”. )</a> </p>
+            <p>Voor meer informatie betreffende de resultaten van het 3-jaarlijke Pisa-onderzoek, verwijzen we u graag door naar volgende website:</p>
+            <a href='https://www.pisa-nederland.nl/' target='_blank'>
+              <button className='btn btn-primary mb-3'>PISA Nederland – Programme for International Student Assessment</button>
+            </a>
 
             <p>Er zijn een aantal factoren die dit verschil in schoolprestaties bevorderen:</p>
             <ul>
@@ -81,7 +84,7 @@ export default function AccordeonGeneratieArmoede() {
 
             <p>Deze tegemoetkoming staat onder druk. OESO geeft namelijk aan dat een vroege selectie van kinderen voor het voortgezet onderwijs (Nederland) een grotere ongelijkheid in de hand werkt en niet voor hogere resultaten zorgen. Ook in België volgen kinderen al vanaf hun 12 jaar les in het middelbaar onderwijs. Dat onderwijs is onderverdeeld in verschillende leerwegen die elks een eigen curriculum hebben. Dit zorgt ervoor dat een deel van de leerlingen al vanaf deze jonge leeftijd, niet meer in aanraking komen met bepaalde leerstof, wat op zijn beurt zorgt voor ongelijke kansen.</p>
             <p>Dit zorgt er ook voor dat wanneer leerlingen van het ene niveau naar het andere niveau dienen over te stappen, ze telkens een jaar verliezen. Dit zorgt voor het verminderen van heterogene klassen en het vermeerderen van categorale scholen. Dit zijn scholen die leerlingen sorteren in homogene groepen. Zo is er een stijging van TSO- en BSO-scholen, wat ervoor zorgt dat minder leerlingen meerdere diploma’s behalen en neemt de tussentijdse op- en afstroom af (Nederland, aangezien er in België geen opstroom mogelijk is). In België dien je pas te kiezen vanaf het 3de middelbaar (verbetering op gebied van het bieden van gelijke kansen) (Duurzame aanpak van kinderarmoede, 2022).</p>
-            
+
             <h6>Vele factoren en mechanismen gelijktijdig aanpakken </h6>
             <p>Onderzoek naar kansenongelijkheid in het onderwijs, geeft aan dat er op verschillende niveaus allerlei strategieën en elementen zijn die ongelijke kansen versterken. Deze strategieën en elementen komen niet enkel voor op niveau van familie, kind en school maar op het niveau van gemeente en samenleving.</p>
             <p>Op dit moment gaat het meeste aandacht uit naar kansenongelijkheid in het onderwijs. Men ziet het onderwijs vaak als de gelijkmaker van ongelijke kansen. Men denkt vaak dat kinderen hun prestaties afhankelijk zijn van hun inzet. Hoe harder ze hun best doen, hoe meer ze bereiken, wat ervoor zorgt dat ze maximale kansen benutten in het onderwijs. Dit heeft op zijn beurt weer een positieve invloed op de kansen op de arbeidsmarkt en op het inkomen.</p>

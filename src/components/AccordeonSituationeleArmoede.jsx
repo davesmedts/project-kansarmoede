@@ -23,13 +23,13 @@ export default function AccordeonGeneratieArmoede() {
 
       <Accordion open={open} toggle={toggle}>
         <AccordionItem>
-          <AccordionHeader targetId="1">Lees meer over situatinele armoede </AccordionHeader>
+          <AccordionHeader targetId="1">Lees meer over situationele armoede </AccordionHeader>
           <AccordionBody accordionId="1">
             <h5>Wat werkt om situationele armoede te bestrijden?</h5>
             <p>Er zijn een aantal zaken die helpen om situationele armoede te bestrijden:</p>
             <ul>
               <li>Een sterke sociale basis</li>
-              <li>Bewustwording, professionalisering en goede samenwerking;</li>
+              <li>Bewustwording, professionalisering en goede samenwerking</li>
               <li>Kosten verlagen</li>
               <li>Inkomsten vergroten</li>
               <li>Meedoen makkelijker maken</li>
@@ -72,7 +72,7 @@ export default function AccordeonGeneratieArmoede() {
             <h6>Stress verlagen en vooral geen stress toevoegen (Duurzame aanpak van kinderarmoede, 2022)</h6>
             <p>Financiële onrust zorgt voor stress binnen een gezin. Deze stress kan chronisch worden en net daarom is het zo belangrijk om deze stress te voorkomen en te verminderen. Bij situationele armoede is ‘Mobility Mentorin’ een goede aanpak. Dit is namelijk een methode die gericht is op het bestrijden van armoede. Het is namelijk wetenschappelijk aangetoond dat de hersenen van mensen die in financiële stress verkeren, minder goed gaan functioneren.</p>
             <p>Het onrecht doordat de armoede is ontstaan door een situatie waarop zijzelf weinig invloed hadden, speelt hen parten zoals ziek worden en je werk hierdoor verliezen. Dit kan uiteraard iedereen voorkomen. Daarom dat het belangrijk is om deze mensen duidelijk te maken dat ze er niet alleen voor staan en dat er ook uitwegen zijn uit deze situatie. Een ervaringsdeskundige inzetten als coach van het gezin kan hierbij helpen.</p>
-            <p>Ervaringsdeskundigen dienen stress te verminderen en niet toe te voegen. Ze mogen dus geen oordeel vellen en en geen ‘waarom’ vragen stellen. Je wilt de stress binnen dit gezin niet chronisch maken (Duurzame aanpak van kinderarmoede, 2022).</p>
+            <p>Ervaringsdeskundigen dienen stress te verminderen en niet toe te voegen. Ze mogen dus geen oordeel vellen en geen ‘waarom’ vragen stellen. Je wilt de stress binnen dit gezin niet chronisch maken (Duurzame aanpak van kinderarmoede, 2022).</p>
 
 
 

@@ -17,8 +17,7 @@ export default function AccordeonGeneratieArmoede() {
   };
 
   return (
-    <div className='mb-4'>
-            <p>Inleidende tekst?</p>
+    <div className='mt-3 mb-4'>
 
       <Accordion open={open} toggle={toggle}>
         <AccordionItem>
