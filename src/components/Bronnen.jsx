@@ -8,7 +8,7 @@ export default function Bronnen(args) {
 
   return (
     <div>
-      <Button color="secondary" onClick={toggle}>
+      <Button color="secondary mt-2 me-2" onClick={toggle}>
         Bronnen
       </Button>
       <Modal className='modal-xl' isOpen={modal} toggle={toggle} {...args}>

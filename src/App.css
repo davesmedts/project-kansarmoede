@@ -13,7 +13,7 @@ h3 {
 }
 
 #content-wrap {
-    padding-bottom: 145px;
+    padding-bottom: 120px;
     margin-left: auto;
     margin-right: auto;
     width: 60%;
@@ -26,10 +26,14 @@ h3 {
     right: 0; */
     width: 100%;
     display: flex;
-    padding: 15px;
+    padding: 5px;
     justify-content: space-between;
     margin-top: 30px;
-    height: 125px;
+    height: 90px;
+}
+
+footer li {
+    font-size: small;
 }
 
 iframe {
