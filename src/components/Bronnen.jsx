@@ -24,12 +24,21 @@ export default function Bronnen(args) {
               <a className='ms-3' href="https://www.kenniscentrumwwz.be/armoede-en-sociale-uitsluiting" target="_blank" rel="noopener noreferrer">https://www.kenniscentrumwwz.be/armoede-en-sociale-uitsluiting</a>
             </li>
             <li className='mt-2'>
+              <p className='mb-0'>Armoede-indicatoren op kindniveau (kinderen onder de 18 jaar) - Vlaams Gewest. (2021). Opgroeien. Geraadpleegd op 11 december 2022</p>
+              <a className='ms-3' href="https://www.opgroeien.be/cijfers-en-publicaties/gezinsinkomen-en-kansarmoede" target="_blank" rel="noopener noreferrer">https://www.opgroeien.be/cijfers-en-publicaties/gezinsinkomen-en-kansarmoede</a>
+            </li>
+
+            <li className='mt-2'>
               <p className='mb-0'>Beleid. (2019, 15 juni). CLB Kempen. Geraadpleegd op 24 december 2022 </p>
               <a className='ms-3' href="https://www.clb-kempen.be/wp-content/uploads/2020/04/CLBK-MissieEnVisie.pdf" target="_blank" rel="noopener noreferrer">https://www.clb-kempen.be/wp-content/uploads/2020/04/CLBK-MissieEnVisie.pdf</a>
             </li>
             <li className='mt-2'>
               <p className='mb-0'>Crowds, Y. (z.d.). Aan de slag met Armoede</p>
               <a className='ms-3' href="https://www.aandeslagmetarmoede.nl/leerkrachten" target="_blank" rel="noopener noreferrer">https://www.aandeslagmetarmoede.nl/leerkrachten</a>
+            </li>
+            <li className='mt-2'>
+              <p className='mb-0'>De Witte, & Maldonado. (2022). moeten ouders huiswerk krijgen? Ouderbetrokkenheid in het 	onderwijs. Geraadpleegd op 16 december 2022</p>
+              <a className='ms-3' href="https://feb.kuleuven.be/research/les/pdf/LES 2022 - 193 Ouderbetrokkenheid.pdf" target="_blank" rel="noopener noreferrer">https://feb.kuleuven.be/research/les/pdf/LES 2022 - 193 Ouderbetrokkenheid.pdf</a>
             </li>
             <li className='mt-2'>
               <p className='mb-0'>Defesche, N. (2022, 5 december). Armoede. Gelijke kansen in de klas</p>
@@ -45,10 +54,6 @@ export default function Bronnen(args) {
             <li className='mt-2'>
               <p className='mb-0'>Elanhr, E. (2021, 6 januari). Self fulfilling prophecy, pygmalion effect, een zichzelf		 vervullende voorspelling. Elan HR | Human Relations</p>
               <a className='ms-3' href="https://elanhr.nl/selffulfilling-prophecy/" target="_blank" rel="noopener noreferrer">https://elanhr.nl/selffulfilling-prophecy/</a>
-            </li>
-            <li className='mt-2'>
-              <p className='mb-0'>Gezinsinkomen en kansarmoede. (z.d.). Opgroeien</p>
-              <a className='ms-3' href="https://www.opgroeien.be/" target="_blank" rel="noopener noreferrer">https://www.opgroeien.be/</a>
             </li>
             <li className='mt-2'>
               <p className='mb-0'>Biesta, G. (2012). Goed onderwijs en de cultuur van het meten: ethiek, politiek en democratie (1ste 	editie). Boom Lemma.</p>
@@ -68,10 +73,6 @@ export default function Bronnen(args) {
             <li className='mt-2'>
               <p className='mb-0'>Het perspectief van maatschappelijk kwetsbare kinderen en jongeren in het onderwijsdebat: What do you think? (2012). In Iedereen gelijke kansen op school? Dat denken zij ervan. Drukkerij Vaes.</p>
               <a className='d-block ms-3' href="Het perspectief van maatschappelijk kwetsbare kinderen en jongeren in het onderwijsdebat: What do you think? (2012). In Iedereen gelijke kansen op school? Dat denken zij ervan. Drukkerij Vaes." target="_blank" rel="noopener noreferrer">Het perspectief van maatschappelijk kwetsbare kinderen en jongeren in het onderwijsdebat: What do you think? (2012). In Iedereen gelijke kansen op school? Dat denken zij ervan. Drukkerij Vaes.</a>
-            </li>
-            <li className='mt-2'>
-              <p className='mb-0'>Home. (z.d.-b). Opgroeien</p>
-              <a className='ms-3' href="https://www.opgroeien.be/" target="_blank" rel="noopener noreferrer">https://www.opgroeien.be/</a>
             </li>
             <li className='mt-2'>
               <p className='mb-0'>Individuele hulp – Steunpunt tot bestrijding van armoede. (z.d.)</p>
@@ -101,14 +102,6 @@ export default function Bronnen(args) {
               <a className='ms-3' href="https://www.divosa.nl/lancering-handreiking-omgaan-met-kinderarmoede-het-sociaal-domein" target="_blank" rel="noopener noreferrer">https://www.divosa.nl/lancering-handreiking-omgaan-met-kinderarmoede-het-sociaal-domein</a>
             </li>
             <li className='mt-2'>
-              <p className='mb-0'>Maak je sterk tegen armoede op school | Netwerk tegen Armoede. (2019, 19 december). </p>
-              <a className='ms-3' href="https://www.netwerktegenarmoede.be/nl/nieuws/2019/maak-je-sterk-tegen-armoede-op-school" target="_blank" rel="noopener noreferrer">https://www.netwerktegenarmoede.be/nl/nieuws/2019/maak-je-sterk-tegen-armoede-op-school</a>
-            </li>
-            <li className='mt-2'>
-              <p className='mb-0'>Maeght, C. de. (2022, 22 november). Zo ga je het gesprek met ouders in kansarmoede aan. Klasse.</p>
-              <a className='ms-3' href="https://www.klasse.be/611298/gesprekstips-ouders-in-kansarmoede/?utm_medium=referral" target="_blank" rel="noopener noreferrer">https://www.klasse.be/611298/gesprekstips-ouders-in-kansarmoede/?utm_medium=referral</a>
-            </li>
-            <li className='mt-2'>
               <p className='mb-0'>Lusse M. & Kassenberg, A. (2021). Omgaan met kinderarmoede in het sociaal domein. Handreiking		 voor professionals. Hogeschool Rotterdam en Hanzehogeschool Groningen.</p>
             </li>
             <li className='mt-2'>
@@ -117,9 +110,22 @@ export default function Bronnen(args) {
               </p>
             </li>
             <li className='mt-2'>
+              <p className='mb-0'>Maak je sterk tegen armoede op school | Netwerk tegen Armoede. (2019, 19 december). </p>
+              <a className='ms-3' href="https://www.netwerktegenarmoede.be/nl/nieuws/2019/maak-je-sterk-tegen-armoede-op-school" target="_blank" rel="noopener noreferrer">https://www.netwerktegenarmoede.be/nl/nieuws/2019/maak-je-sterk-tegen-armoede-op-school</a>
+            </li>
+            <li className='mt-2'>
+              <p className='mb-0'>Maeght, C. de. (2022, 22 november). Zo ga je het gesprek met ouders in kansarmoede aan. Klasse.</p>
+              <a className='ms-3' href="https://www.klasse.be/611298/gesprekstips-ouders-in-kansarmoede/?utm_medium=referral" target="_blank" rel="noopener noreferrer">https://www.gelijke-kansen.nl/documenten/publicaties/2020/02/21/handreiking-omgaan-met-armoede-op-scholen</a>
+            </li>
+            <li className='mt-2'>
               <p className='mb-0'>Mattheuseffect in de kijker. (z.d.). EXPOO. </p>
               <a className='ms-3' href="https://www.expoo.be/mattheuseffect-in-de-kijker" target="_blank" rel="noopener noreferrer">https://www.expoo.be/mattheuseffect-in-de-kijker</a>
             </li>
+            <li className='mt-2'>
+              <p className='mb-0'>Ministerie van Onderwijs, Cultuur en Wetenschap. (2022, 3 november). Handreiking Omgaan met armoede op scholen. Publicatie | Gelijke kansen. </p>
+              <a className='ms-3' href="https://www.gelijke-kansen.nl/documenten/publicaties/2020/02/21/handreiking-omgaan-met-armoede-op-scholen" target="_blank" rel="noopener noreferrer">https://www.expoo.be/mattheuseffect-in-de-kijker</a>
+            </li>
+
             <li className='mt-2'>
               <p className='mb-0'>Mission Statement. (z.d.). vclb de wissel Antwerpen. Geraadpleegd op 24 december 2022</p>
               <a className='ms-3' href="http://www.vclbdewisselantwerpen.be/pdf/Mission%20Statement.pdf" target="_blank" rel="noopener noreferrer">http://www.vclbdewisselantwerpen.be/pdf/Mission%20Statement.pdf</a>
@@ -163,8 +169,8 @@ export default function Bronnen(args) {
               <a className='ms-3' href="https://www.youtube.com/watch?v=EcJKwrRYinU" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=EcJKwrRYinU</a>
             </li>
             <li className='mt-2'>
-              <p className='mb-0'>witte, de & Maldonado. (2022). moeten ouders huiswerk krijgen? Ouderbetrokkenheid in het 	onderwijs. Geraadpleegd op 16 december 2022</p>
-              <a className='ms-3' href="https://feb.kuleuven.be/research/les/pdf/LES 2022 - 193 Ouderbetrokkenheid.pdf" target="_blank" rel="noopener noreferrer">https://feb.kuleuven.be/research/les/pdf/LES 2022 - 193 Ouderbetrokkenheid.pdf</a>
+              <p className='mb-0'>Vzw, W. (2021, 18 oktober). Welzijnszorg [Video]. YouTube. </p>
+              <a className='ms-3' href=". https://www.youtube.com/watch?v=qOxzXjY62I0&feature=youtu.be" target="_blank" rel="noopener noreferrer">. https://www.youtube.com/watch?v=qOxzXjY62I0&feature=youtu.be</a>
             </li>
           </ul>
         </ModalBody>

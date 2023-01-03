@@ -13,6 +13,7 @@ export default function Uitdagingen(props) {
       <p>Het is dan ook van groot belang dat kansarmoede in gezinnen vroeg wordt gesignaleerd en opgepakt. Maar hoe doen we dat en welke rol heeft het onderwijs hierin? Dat willen we graag in onderstaande tekst verduidelijken.</p>
 
       <img  src={werkwijzenPerCategorie} alt='overzicht werkwijzen per categorie' className='mx-auto d-block mb-4' width={600}></img>
+      <p>Ministerie van Onderwijs, Cultuur en Wetenschap. (2022, 3 november). Handreiking Omgaan met armoede op scholen. Publicatie | Gelijke kansen. </p>
 
 
       <ArmoedeOnderwijsTabs />

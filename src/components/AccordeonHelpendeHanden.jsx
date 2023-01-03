@@ -55,12 +55,12 @@ export default function AccordeonGeneratieArmoede() {
             <a href='https://welzijnszorg.be/jordy' target='_blank'>
               <img className='imgCentered mb-5' id='jordy' src={jordy} alt="" />
             </a>
+            <p>Jordy zoekt geld. (2021). Welzijnszorg. https://welzijnszorg.be/jordy</p>
 
             <p>In dit filmpje wordt duidelijk wat Welzijnszorg is en doet: </p>
             <div className='d-flex mb-3 justify-content-center'>
               <iframe width="560" height="315" src="https://www.youtube.com/embed/qOxzXjY62I0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
-            <p>Onderwijs tegen armoede. (z.d.). Welzijnszorg.</p>
           </AccordionBody>
         </AccordionItem>
         <AccordionItem>
@@ -69,17 +69,15 @@ export default function AccordeonGeneratieArmoede() {
             <a href="https://onderwijs.vlaanderen.be/nl/ouders/ondersteuning-en-begeleiding/leerlingenbegeleiding/centrum-voor-leerlingenbegeleiding-clb" target="_blank" rel="noopener noreferrer">
               <img id='logoCLB' className='imgCentered mb-2' src={logoCLB} ></img>
             </a>
-            <p>De focus ligt voor het CLB vooral op kansenbevordering. Dit is iets wat is opgenomen in de mission statement van vrij CLB. Op macroniveau willen ze blijven signaleren. Kansenbevordering wordt zichtbaar gemaakt op alle niveaus van de organisatie: personeelsbeleid, leiderschap, verdeling van mensen/middelen, toegankelijkheid van het CLB.</p>
+            <p>De focus ligt voor het CLB vooral op kansenbevordering. Dit is iets wat is opgenomen in de <a href="http://www.vclbdewisselantwerpen.be/pdf/Mission%20Statement.pdf" target="_blank" rel="noopener noreferrer">
+              mission statement
+            </a> van vrij CLB. Op macroniveau willen ze blijven signaleren. Kansenbevordering wordt zichtbaar gemaakt op alle niveaus van de organisatie: personeelsbeleid, leiderschap, verdeling van mensen/middelen, toegankelijkheid van het CLB.</p>
             <p>Elk CLB heeft een werkgroep kansenbevordering waar ten minste 1 lid van elk team aan deelneemt en dit mee uitdraagt binnen hun team. Deze wordt aangestuurd door een beleidsondersteuner binnen de organisatie die ook op beleidsniveau alle overlegstructuren mee opvolgt.  </p>
             <p>Kansenbevordering is een erg complex begrip. Er zijn erg veel mechanismen die armoede en ongelijke kansen veroorzaken en bestendigen, die buiten ons bereik liggen. Vooral dan de factoren op macroniveau. </p>
+
             <p>Per school wordt door de SES kenmerken, doelen bepaald en daaraan worden initiatieven gelinkt. Dit kan op een school zijn, maar zeker ook overkoepelend per regio. Daarnaast wordt er vooral vraag gestuurd gewerkt. Een school kan het CLB vragen om mee te ondersteunen in overlegmomenten. Dit is individueel verschillend en vaak ook vraag gestuurd. Scholen zijn vaak erg goed op de hoogte van de doelen van het CLB. De verwachting die CLB naar school toe heeft is niet meer dan dat de school rekening houdt met de doelen van het CLB. Bij het stoten op wederkerende uitdagingen, worden er acties aan gekoppeld. Omgekeerd zal het CLB ook melden als bepaalde problematieken in een regio of school meermaals worden gemeld. Samen nadenken, acties opvolgen en evalueren is het werk van individuele medewerkers, van teams, van beleid en dus van de hele organisatie binnen het onderwijs. Alle niveaus werken hier op elkaar in en versterken elkaar.</p>
             <ButtonCLBInterview />
-            <a href="http://www.vclbdewisselantwerpen.be/pdf/Mission%20Statement.pdf" target="_blank" rel="noopener noreferrer">
-              <p>Mission Statement. (z.d.). vclb de wissel Antwerpen. Geraadpleegd op 24 december 2022</p>
-            </a>
-            <a href="https://www.clb-kempen.be/wp-content/uploads/2020/04/CLBK-MissieEnVisie.pdf" target="_blank" rel="noopener noreferrer">
-              Beleid. (2019, 15 juni). CLB Kempen. Geraadpleegd op 24 december 2022
-            </a>
+            
           </AccordionBody>
         </AccordionItem>
         <AccordionItem>
@@ -98,12 +96,19 @@ export default function AccordeonGeneratieArmoede() {
 
             <ButtonRodeKruisInterview />
 
-            <a href="https://www.rodekruis.be/wat-doen-we/sociale-activiteiten/ondersteuning-schoolsituatie/op-jouw-school/" target="_blank" rel="noopener noreferrer">
-              <p>Ondersteuning op jouw school. (z.d.). </p>
-            </a>
-            <a href="https://www.2doc.nl/documentaires/2017/10/je-mag-altijd-bij-me-komen.html" target="_blank" rel="noopener noreferrer">
-              <p>Documentaire, Je mag altijd bij me komen. (2017, 3 oktober). </p>
-            </a>
+
+            <p>
+              Wil je ook ondersteuning op jouw school? 
+              <a href="https://www.rodekruis.be/wat-doen-we/sociale-activiteiten/ondersteuning-schoolsituatie/op-jouw-school/" target="_blank" rel="noopener noreferrer"> Ondersteuning op jouw school. (z.d.). </a>
+            </p>
+
+
+
+            <p>
+              Volg een dagje mee met een brugfiguur: 
+              <a href="https://www.2doc.nl/documentaires/2017/10/je-mag-altijd-bij-me-komen.html" target="_blank" rel="noopener noreferrer"> Documentaire, Je mag altijd bij me komen. (2017, 3 oktober).</a>
+            </p>
+
           </AccordionBody>
         </AccordionItem>
         <AccordionItem>

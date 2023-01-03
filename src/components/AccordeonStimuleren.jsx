@@ -71,13 +71,13 @@ export default function AccordeonGeneratieArmoede() {
         <AccordionItem>
           <AccordionHeader targetId="7">Ervaringsverhalen</AccordionHeader>
           <AccordionBody accordionId="7">
-            <p>In het onderstaande filmpje kun je luisteren naar het verhaal van Chantal. Zij vertelt hoe onderwijs haar geholpen heeft in haar strijd tegen kansarmoede. Het filmpje is al van wat jaren geleden maar nog altijd staat als een paal boven water dat onderwijs helpt in de strijd tegen (kans)armoede (Klasse, 2011).</p>
+            <p>In de onderstaande fragmenten komen er een aantal ervaringsdeskundigen aan het woord. Ze vertellen hoe de school hen ondersteunt in de strijd tegen kansarmoede.</p>
 
             <div className='d-flex justify-content-center mb-4'>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/VPx9MN3rQxQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
 
-            <p>Inleidende tekst over onderstaand filmpje?</p>
+        
 
             <div className='d-flex justify-content-center'>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/72XZggeE5eY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
