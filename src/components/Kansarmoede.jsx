@@ -12,7 +12,6 @@ import classnames from 'classnames';
 export default function Kansarmoede() {
     return (
         <div className='container'>
-            
 
             <h3>Kansarmoede</h3>
             <p>Kansarmoede is een term die veel gelinkt wordt met kinderarmoede. Zowel de ‘Stichting Pelicano’ als ook ‘Het Agentschap Opgroeien’ beschrijft heel goed een aantal essentiële zaken als het om kansarmoede gaat. We hebben dit hieronder samengevat: </p>
@@ -21,7 +20,7 @@ export default function Kansarmoede() {
             <p>In armoede leven is iets wat iedereen kan overkomen. Er zijn wel verschillende groepen huishoudens die hier meer risico op lopen. Deze huishoudens hebben een relatief laag inkomen. Voorbeelden hiervan zijn: éénoudergezinnen, huishoudens met een migratieachtergrond, een laag opleidingsniveau en weinig werkervaring. Kinderen van huishoudens met deze kenmerken hebben vervolgens ook een hogere kans op armoede (Duurzame aanpak van kinderarmoede, 2022).  </p>
 
             <p class="text-primary">In volgende podcast vertelt ‘Stichting Pelicano’ over het initiatief om elk kind een mooie en warme toekomst te kunnen geven.</p>
-            <a href="https://ondermamas.be/podcast/kinderarmoede/">
+            <a href="https://ondermamas.be/podcast/kinderarmoede/" target='_blank'>
                 <button className='btn btn-primary mb-4'>podcast 'Stichting Pelicano'</button>
             </a>
 
