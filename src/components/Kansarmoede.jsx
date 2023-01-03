@@ -12,6 +12,7 @@ import classnames from 'classnames';
 export default function Kansarmoede() {
     return (
         <div className='container'>
+            
 
             <h3>Kansarmoede</h3>
             <p>Kansarmoede is een term die veel gelinkt wordt met kinderarmoede. Zowel de ‘Stichting Pelicano’ als ook ‘Het Agentschap Opgroeien’ beschrijft heel goed een aantal essentiële zaken als het om kansarmoede gaat. We hebben dit hieronder samengevat: </p>
