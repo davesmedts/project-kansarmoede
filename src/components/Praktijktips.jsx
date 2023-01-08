@@ -31,7 +31,7 @@ export default function Home() {
             <a href="https://www.klasse.be/237640/armoedebeleid-school-dialoog-schoolboeken/?utm_medium=referral&utm_source=smartschool_be&utm_campaign=wel_dure_sneakers_geen_schoolboeken&utm_term=smartschool" target="_blank" rel="noopener noreferrer"><button className='btn btn-primary mb-4'>Artikel: Armoedebeleid: wel dure sneakers, geen geld voor schoolboeken? </button></a>
 
             <h6>Tools om rond kansarmoede te werken in de klas:</h6>
-            <p>In de klas kan je armoede bespreekbaar maken met Jordy. Welzijnszorg biedt educatieve materialen aan om te werken in de klas rond kansarmoede. Je vindt er zowel educatieve als gratis materialen. Hieronder de link naar de website van Welzijnszorg, meer bepaald naar Jordy (kleuteronderwijs,z.d.).</p>
+            <p>In de klas kan je armoede bespreekbaar maken met Jordy. Welzijnszorg biedt educatieve materialen aan om te werken in de klas rond kansarmoede. Je vindt er zowel educatieve als gratis materialen. Hieronder de link naar de website van Welzijnszorg, meer bepaald naar Jordy (kleuteronderwijs, z.d.).</p>
             <a href="https://welzijnszorg.be/jordy" target="_blank" rel="noopener noreferrer"><button className='btn btn-primary mb-4'>Jordy: Samen tegen armoede </button></a>
 
 

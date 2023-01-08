@@ -33,6 +33,10 @@ export default function Bronnen(args) {
               <a className='ms-3' href="https://www.clb-kempen.be/wp-content/uploads/2020/04/CLBK-MissieEnVisie.pdf" target="_blank" rel="noopener noreferrer">https://www.clb-kempen.be/wp-content/uploads/2020/04/CLBK-MissieEnVisie.pdf</a>
             </li>
             <li className='mt-2'>
+              <p className='mb-0'>Biesta, G. (2012). Goed onderwijs en de cultuur van het meten: ethiek, politiek en democratie (1ste 	editie). Boom Lemma.</p>
+            </li>
+            <li className='mt-2'>
+            <li className='mt-2'>
               <p className='mb-0'>Crowds, Y. (z.d.). Aan de slag met Armoede</p>
               <a className='ms-3' href="https://www.aandeslagmetarmoede.nl/leerkrachten" target="_blank" rel="noopener noreferrer">https://www.aandeslagmetarmoede.nl/leerkrachten</a>
             </li>
@@ -55,10 +59,6 @@ export default function Bronnen(args) {
               <p className='mb-0'>Elanhr, E. (2021, 6 januari). Self fulfilling prophecy, pygmalion effect, een zichzelf		 vervullende voorspelling. Elan HR | Human Relations</p>
               <a className='ms-3' href="https://elanhr.nl/selffulfilling-prophecy/" target="_blank" rel="noopener noreferrer">https://elanhr.nl/selffulfilling-prophecy/</a>
             </li>
-            <li className='mt-2'>
-              <p className='mb-0'>Biesta, G. (2012). Goed onderwijs en de cultuur van het meten: ethiek, politiek en democratie (1ste 	editie). Boom Lemma.</p>
-            </li>
-            <li className='mt-2'>
               <p className='mb-0'>GO! Pro. (z.d.)</p>
               <a className='ms-3' href="https://pro.g-o.be/zoek/?q=gelijke+onderwijskansen" target="_blank" rel="noopener noreferrer">https://pro.g-o.be/zoek/?q=gelijke+onderwijskansen</a>
             </li>

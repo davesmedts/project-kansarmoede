@@ -27,8 +27,8 @@ export default function Bronnen(args) {
           <ul>
             <li>2 keer per jaar organiseert het OCMW het netwerk kinderarmoede. Alle scholen, instanties, organisaties  die op één of andere manier betrokken zijn bij kinderen, nemen deel; o.a.  afvaardiging van alle Ravelse scholen (zorgleerkrachten), de brugfiguren van Rode Kruis, de huiswerkbegeleiders,  verpleegkundige van Kind en gezin, sociale dienst OCWM, afvaardiging lokaal bestuur, de dienst jeugd en vrije tijd ……. De bedoeling is mekaar beter te leren kennen (werkt drempelverlagend om contact met elkaar op te nemen), elkaars werking beter te leren kennen, te onderzoeken waar zijn raakvlakken en kunnen we elkaar versterken, waar zijn leemtes en op welke manier kunnen we daar mee om gaan……… </li>
             <li>Samen met de scholen zijn de onderwijscheques tot stand gekomen en dit om de betaalbaarheid van het onderwijs voor iedereen te garanderen. </li>
-            <li>•	Het OCMW beschikt over een participatiefonds inzake kinderarmoede. Dit is een subsidie die kan aangewend worden om iedereen te mogelijkheid te geven om te participeren.  Bijv. het lidgeld van jeugdverenigingen  kan hiervan betaald worden maar ook een uitstap met het gezin, of een tussenkomst voor bos of zeeklassen, de logopedist, een uitstap met school, ...   </li>
-            <li>•	Om elk kind de mogelijkheid te geven om digitaal mee te zijn, krijgen alle leerlingen van het 5de leerjaar van het lokaal bestuur, een laptop die zowel in de klas als thuis mag gebruikt worden.  </li>
+            <li>Het OCMW beschikt over een participatiefonds inzake kinderarmoede. Dit is een subsidie die kan aangewend worden om iedereen te mogelijkheid te geven om te participeren.  Bijv. het lidgeld van jeugdverenigingen  kan hiervan betaald worden maar ook een uitstap met het gezin, of een tussenkomst voor bos of zeeklassen, de logopedist, een uitstap met school, ...   </li>
+            <li>Om elk kind de mogelijkheid te geven om digitaal mee te zijn, krijgen alle leerlingen van het 5de leerjaar van het lokaal bestuur, een laptop die zowel in de klas als thuis mag gebruikt worden.  </li>
           </ul>
 
 
@@ -39,7 +39,7 @@ export default function Bronnen(args) {
           <ul>
             <li>In het netwerk armoede worden bepaalde problemen aangekaart (bijv. nood aan vorming rond een bepaald thema) Vanuit het lokaal bestuur wordt dan onderzocht op welke manier dit kan aangeboden worden. </li>
             <li>Bij doorverwijzing of melding van probleemsituaties gaan we samen met de school op zoek naar de meest gepaste oplossing.  </li>
-            <li>•	Tijdens infomomenten van de school kan er steeds gevraagd worden dat een maatschappelijk assistente van het OCMW aanwezig is en dit om de algemene werking van het OCMW toe te lichten, om de onderwijscheques, participatiefonds, …. meer kenbaar te maken, om de ouders de gelegenheid te geven een hulpvraag te stellen. </li>
+            <li>Tijdens infomomenten van de school kan er steeds gevraagd worden dat een maatschappelijk assistente van het OCMW aanwezig is en dit om de algemene werking van het OCMW toe te lichten, om de onderwijscheques, participatiefonds, …. meer kenbaar te maken, om de ouders de gelegenheid te geven een hulpvraag te stellen. </li>
           </ul>
 
           <p className='text-primary mb-0 mt-3'>Kan het onderwijs jullie ook iets bieden? </p>
